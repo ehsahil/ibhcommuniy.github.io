@@ -19,8 +19,7 @@ Team -
 
 [@Parth_Malhotra](https://twitter.com/Parth_Malhotra)
 
-
-Find us at [Twitter](https://twitter.com/indianbughunters)
+[@indianbughunters](https://twitter.com/indianbughunters)
 
 
 
