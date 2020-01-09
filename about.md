@@ -11,13 +11,13 @@ Indian Bug Hunters is the largest bug bounty community in the world [Indian Bug 
 
 Team - 
 
-Sahil Ahamad [@ehsahil](https://twitter.com/ehsahil)
+[@ehsahil](https://twitter.com/ehsahil)
 
-Paresh Parmar [@Paresh_parmar1](https://twitter.com/Paresh_parmar1)
+[@Paresh_parmar1](https://twitter.com/Paresh_parmar1)
 
-Armaan Pathan [@armaancrockroax](https://twitter.com/armaancrockroax)
+[@armaancrockroax](https://twitter.com/armaancrockroax)
 
-Parth Malhotra [@Parth_Malhotra](https://twitter.com/Parth_Malhotra)
+[@Parth_Malhotra](https://twitter.com/Parth_Malhotra)
 
 
 Find us at [Twitter](https://twitter.com/indianbughunters)
