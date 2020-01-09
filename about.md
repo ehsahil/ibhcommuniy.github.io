@@ -7,9 +7,10 @@ ref: about
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Indian Bug Hunters is the largest bug bounty community in the world, we are most down to earth peoples, we don't help anyone, just kidding. [Indian Bug Hunters - Slack ](https://indianbughunters.slack.com)
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+Find Us at [Twitter](https://twitter.com/indianbughunters)
+
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
