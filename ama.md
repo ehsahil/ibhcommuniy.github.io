@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AMA
+title: Ama
 tagline: Ask me Anything for Indian Hackers
 permalink: /ama.html
 ref: ama
