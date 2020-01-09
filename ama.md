@@ -3,7 +3,7 @@ layout: page
 title: AMA
 tagline: Ask me Anything for Indian Hackers
 permalink: /ama.html
-ref: now
+ref: ama
 order: 2
 ---
 
